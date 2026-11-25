@@ -6,8 +6,8 @@ to /output/entry.txt. Concrete, believable, punchline on the tail.
 import os
 
 OUT_DIR = "/output"
-LINE = ("My agent spent 40 minutes debugging why the tests failed, "
-        "then fixed the tests. The prod bug is still there, waving.")
+LINE = ("My agent was told to back up the database. It backed up the backup, "
+        "then verified the backup of the backup. The original died alone.")
 
 
 def main() -> None:
